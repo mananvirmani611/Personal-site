@@ -1,0 +1,128 @@
+
+body{
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  }
+/* nav bar section */
+
+#title{
+  background-color: #B5E7EA;
+}
+.nav-link{
+  color: black !important;
+  font-weight: 500;
+}
+.nav-item{
+  margin: 0 10px;
+}
+/* background image css */
+.background-image{
+  width: 100%;
+}
+.name-on-top{
+  font-family: cursive;
+}
+
+/* welcome section */
+
+#welcome{
+
+  text-align: center;
+  padding: 10%;
+}
+.intro{
+  margin:20px;
+  font-size: 150%;
+}
+h1{
+  font-size: 300%;
+  font-family: 'RocknRoll One', sans-serif;
+}
+
+
+
+/* skills section */
+.skills-image-1{
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 5%;
+}
+#skills{
+  background-color: #ABDBDE;
+  /* background-color: #B5E7EA; */
+  padding :10% 15%;
+  color: white;
+}
+.skills{
+  vertical-align: middle;
+  margin-bottom: 20%;
+  text-align: left;
+}
+.skills-image-2{
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 5%;
+}
+.skills-description{
+  font-weight: bold;
+  line-height: 1.5;
+  letter-spacing: 1.5px;
+  font-size: 18px;
+}
+h2{
+color: gray;
+font-weight: bold;
+}
+.skills-heading{
+  font-family: 'RocknRoll One', sans-serif;
+  padding: 0 0 10% 0;
+}
+
+/* education */
+.student-image{
+    width: 20%;
+    margin: 3% 0 5% 0;
+}
+.education-description{
+  margin-bottom: 120px;
+}
+.education{
+  font-size: 20px;
+}
+.education-heading{
+  margin-top: 5%;
+  font-family: 'RocknRoll One', sans-serif;
+}
+
+/* work section */
+/* #works{
+    background-color: #ABDBDE;
+    padding: 5%;
+}
+.work-images{
+    padding: 0 25%;
+}
+.carousel-inner{
+  padding: 5%;
+} */
+
+
+#contact-me{
+  text-align: center;
+  background-color: #ABDBDE;
+  padding: 5%;
+}
+.contact-button{
+  display: block;
+  margin: 20px auto 10px auto;
+}
+.links{
+    margin : 0 20px;
+    font-size: 20px;
+}
+.links-division{
+  margin-top: 30px;
+}
